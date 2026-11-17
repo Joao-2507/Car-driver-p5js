@@ -82,7 +82,7 @@ pelo editor online do p5.js:
 
 ## 👨‍💻 Autor
 
-**João Victor de Souza Pereira**
+**João Victor de Souza Pereira da Costa Salústio**
 
 [GitHub](https://github.com/Joao-2507)
 
