@@ -25,7 +25,9 @@ O jogador controla um carro que se movimenta
 horizontalmente pela pista, buscando desviar de
 obstáculos que surgem em posições aleatórias.
 
-O objetivo é sobreviver durante 30 segundos.
+O objetivo é sobreviver aos obstáculos durante 30 segundos.
+
+Esse jogo foi desenvolvido como um projeto da 3ª unidade para a matéria de Lógica de Programação do curso de Engenharia de Computação.
 
 ## 🎮 Controles
 
